@@ -10,6 +10,7 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "1896 by-election": "Q98643640"
     },
     "party" : {
     }
