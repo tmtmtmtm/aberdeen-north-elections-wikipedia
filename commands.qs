@@ -272,12 +272,7 @@ LAST	P3602	Q918430	P768	Q299984	P102	Q592068	P1111	719	P1352	4	S4656	"https://en
 Q20826693	P3602	Q543609	P768	Q299984	P102	Q9624	P1111	4772	P1352	4	S4656	"https://en.wikipedia.org/wiki/Aberdeen_North_(UK_Parliament_constituency)"
 Q540381	P3602	Q918450	P768	Q299984	P102	Q10658	P1111	5796	P1352	3	S4656	"https://en.wikipedia.org/wiki/Aberdeen_North_(UK_Parliament_constituency)"
 Q1436381	P3602	Q918503	P768	Q299984	P102	Q9624	P1111	5421	P1352	4	S4656	"https://en.wikipedia.org/wiki/Aberdeen_North_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Nurul Ali"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q299984	P102	Q3179541	P1111	4939	P1352	3	S4656	"https://en.wikipedia.org/wiki/Aberdeen_North_(UK_Parliament_constituency)"
+Q75720105	P3602	Q30173038	P768	Q299984	P102	Q3179541	P1111	4939	P1352	3	S4656	"https://en.wikipedia.org/wiki/Aberdeen_North_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Orr Vinegold"
