@@ -1,0 +1,131 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q8004273,William Hunter,Q622441,Liberal Party (UK),4794,Q3397257,1885 general election,1
+,,Benjamin Scott Foster McGeagh,Q9626,Conservative Party (UK),894,Q3397257,1885 general election,2
+,,James Wallace Thom,Q6016735,Independent Liberal,177,Q3397257,1885 general election,3
+,Q8004273,William Hunter,Q622441,Liberal Party (UK),4462,Q7888018,1892 general election,1
+,,Bremner Patrick Lee,Q1754707,Liberal Unionist Party,870,Q7888018,1892 general election,2
+,Q8004273,William Hunter,Q622441,Liberal Party (UK),4156,Q7888019,1895 general election,1
+,Q16029218,John Lincoln Mahon,Q327591,Independent Labour,608,Q7888019,1895 general election,2
+,Q5314642,Duncan Pirie,Q622441,Liberal Party (UK),2909,Q98643640,1896 by-election,1
+,Q1852204,Tom Mann,Q1507913,Independent Labour Party,2479,Q98643640,1896 by-election,2
+,Q5314642,Duncan Pirie,Q622441,Liberal Party (UK),4238,Q918358,1900 general election,1
+,,Robert Williams,Q9626,Conservative Party (UK),2251,Q918358,1900 general election,2
+,Q5314642,Duncan Pirie,Q622441,Liberal Party (UK),4852,Q3076606,1906 general election,1
+,Q5906347,Tom Kennedy,Q1304246,Social Democratic Federation,1935,Q3076606,1906 general election,2
+,Q6744908,Maltman Barrie,Q9626,Conservative Party (UK),931,Q3076606,1906 general election,3
+,Q5314642,Duncan Pirie,Q622441,Liberal Party (UK),4297,Q3075752,January 1910 general election,1
+,,Robert Scott-Brown,Q1754707,Liberal Unionist Party,2314,Q3075752,January 1910 general election,2
+,Q5906347,Tom Kennedy,Q1304246,Social Democratic Federation,1344,Q3075752,January 1910 general election,3
+,Q5314642,Duncan Pirie,Q622441,Liberal Party (UK),4282,Q3076583,December 1910 general election,1
+,,Robert Scott-Brown,Q1754707,Liberal Unionist Party,2546,Q3076583,December 1910 general election,2
+,Q5487220,Frank Rose,Q327591,Independent Labour,6128,Q3042701,1918 general election,1
+,Q5314642,Duncan Pirie,Q622441,Liberal Party (UK),5918,Q3042701,1918 general election,2
+,Q5487220,Frank Rose,Q9630,Labour Party (UK),10958,Q3084303,1922 general election,1
+,,William Mackenzie Cameron,Q6974098,"National Liberal Party (UK, 1922)",6615,Q3084303,1922 general election,2
+,,James Johnstone,Q622441,Liberal Party (UK),2113,Q3084303,1922 general election,3
+,Q5487220,Frank Rose,Q9630,Labour Party (UK),9138,Q3084294,1923 general election,1
+,,William Forbes Lumsden,Q7886824,Unionist Party (Scotland),4820,Q3084294,1923 general election,2
+,,William Mackenzie Cameron,Q622441,Liberal Party (UK),4099,Q3084294,1923 general election,3
+,Q5487220,Frank Rose,Q9630,Labour Party (UK),13249,Q2632991,1924 general election,1
+,Q42610341,Laura Sandeman,Q7886824,Unionist Party (Scotland),8545,Q2632991,1924 general election,2
+,Q677902,William Wedgwood Benn,Q9630,Labour Party (UK),10646,Q16824459,1928 by-election,1
+,Q42610341,Laura Sandeman,Q7886824,Unionist Party (Scotland),4696,Q16824459,1928 by-election,2
+,Q20810878,Aitken Ferguson,Q592068,Communist Party of Great Britain,2618,Q16824459,1928 by-election,3
+,Q21070212,James Rankin Rutherford,Q622441,Liberal Party (UK),2337,Q16824459,1928 by-election,4
+,Q677902,William Wedgwood Benn,Q9630,Labour Party (UK),17826,Q517639,1929 general election,1
+,Q7308602,Reginald Berkeley,Q7437849,Scottish Liberal Party,9799,Q517639,1929 general election,2
+,Q20810878,Aitken Ferguson,Q592068,Communist Party of Great Britain,1686,Q517639,1929 general election,3
+,Q6235108,John George Burnett,Q7886824,Unionist Party (Scotland),22931,Q918375,1931 general election,1
+,Q677902,William Wedgwood Benn,Q9630,Labour Party (UK),8753,Q918375,1931 general election,2
+,Q18756744,Helen Crawfurd,Q592068,Communist Party of Great Britain,3980,Q918375,1931 general election,3
+,Q5545309,George Garro-Jones,Q9630,Labour Party (UK),16952,Q918378,1935 general election,1
+,Q6235108,John George Burnett,Q7886824,Unionist Party (Scotland),13990,Q918378,1935 general election,2
+,,Arthur Fraser Macintosh,Q1507913,Independent Labour Party,3871,Q918378,1935 general election,3
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),26753,Q918397,1945 general election,1
+,Q7245582,Lady Grant of Monymusk,Q7886824,Unionist Party (Scotland),9623,Q918397,1945 general election,2
+,,Austin William Walker,Q10658,Scottish National Party,2021,Q918397,1945 general election,3
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),31594,Q748667,1950 general election,1
+,,Archibald Tennant,Q7886824,Unionist Party (Scotland),15705,Q748667,1950 general election,2
+,Q19586408,John Gray Wilson,Q622441,Liberal Party (UK),3574,Q748667,1950 general election,3
+,,Bob Cooney,Q592068,Communist Party of Great Britain,1391,Q748667,1950 general election,4
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),33711,Q3722280,1951 general election,1
+,,Frank Magee,Q7886824,Unionist Party (Scotland),18365,Q3722280,1951 general election,2
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),33153,Q918412,1955 general election,1
+,,Charles A. Malden,Q7886824,Unionist Party (Scotland),16357,Q918412,1955 general election,2
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),32793,Q918420,1959 general election,1
+,Q4121020,Jack Stewart-Clark,Q7886824,Unionist Party (Scotland),15137,Q918420,1959 general election,2
+,Q20027875,Sandy Milne,Q10658,Scottish National Party,2964,Q918420,1959 general election,3
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),31844,Q220208,1964 general election,1
+,,John Mclnnes,Q7886824,Unionist Party (Scotland),14366,Q220208,1964 general election,2
+,Q5696713,Hector Hughes,Q9630,Labour Party (UK),28799,Q918430,1966 general election,1
+,,Marcus Humphrey,Q9626,Conservative Party (UK),8768,Q918430,1966 general election,2
+,,Doreen W MacPherson,Q622441,Liberal Party (UK),4350,Q918430,1966 general election,3
+,,Margaret Rose,Q592068,Communist Party of Great Britain,719,Q918430,1966 general election,4
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),27707,Q918442,1970 general election,1
+,,Dennis J Williams,Q9626,Conservative Party (UK),9807,Q918442,1970 general election,2
+,,John McKenna,Q10658,Scottish National Party,3756,Q918442,1970 general election,3
+,,Forbes McCallum,Q622441,Liberal Party (UK),2835,Q918442,1970 general election,4
+,,Andrew Ingram,Q592068,Communist Party of Great Britain,521,Q918442,1970 general election,5
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),23193,Q119524,February 1974 general election,1
+,,James Andrew McGugan,Q10658,Scottish National Party,11337,Q119524,February 1974 general election,2
+,,G. Dunnett,Q9626,Conservative Party (UK),8115,Q119524,February 1974 general election,3
+,,Forbes McCallum,Q622441,Liberal Party (UK),6001,Q119524,February 1974 general election,4
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),23130,Q918508,October 1974 general election,1
+,,James Andrew McGugan,Q10658,Scottish National Party,13509,Q918508,October 1974 general election,2
+,Q2074969,Peter Fraser,Q9626,Conservative Party (UK),5125,Q918508,October 1974 general election,3
+,,F. McCallum,Q622441,Liberal Party (UK),3700,Q918508,October 1974 general election,4
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),26771,Q918450,1979 general election,1
+,,Gordon Cassie Adams,Q9626,Conservative Party (UK),7657,Q918450,1979 general election,2
+,Q540381,Maureen Watt,Q10658,Scottish National Party,5796,Q918450,1979 general election,3
+,,Lindsay Jane McMillan,Q622441,Liberal Party (UK),4887,Q918450,1979 general election,4
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),19262,Q918466,1983 general election,1
+,,Colin Deans,Q40052,Social Democratic Party (UK),10118,Q918466,1983 general election,2
+,,Gae Scanlan,Q9626,Conservative Party (UK),7426,Q918466,1983 general election,3
+,,James McGugan,Q10658,Scottish National Party,3790,Q918466,1983 general election,4
+,,Margaret Harty,Q15980875,Ecology Party,67,Q918466,1983 general election,5
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),24145,Q918472,1987 general election,1
+,Q390317,Sir Robert Hill Smith,Q40052,Social Democratic Party (UK),7867,Q918472,1987 general election,2
+,,Gae Scanlan,Q9626,Conservative Party (UK),6330,Q918472,1987 general election,3
+,,Philip Greenhorn,Q10658,Scottish National Party,5827,Q918472,1987 general election,4
+,Q2157626,Robert Hughes,Q9630,Labour Party (UK),18845,Q543609,1992 general election,1
+,,James McGugan,Q10658,Scottish National Party,9608,Q543609,1992 general election,2
+,,Paul S. Cook,Q9626,Conservative Party (UK),6836,Q543609,1992 general election,3
+,Q20826693,Martin Ford,Q9624,Liberal Democrats (UK),4772,Q543609,1992 general election,4
+,Q6742616,Malcolm Savidge,Q9630,Labour Party (UK),18839,Q918503,1997 general election,1
+,Q570298,Brian Adam,Q10658,Scottish National Party,8379,Q918503,1997 general election,2
+,,James Gifford,Q9626,Conservative Party (UK),5763,Q918503,1997 general election,3
+,Q1436381,Mike Rumbles,Q9624,Liberal Democrats (UK),5421,Q918503,1997 general election,4
+,,Alasdair McKenzie,Q278315,Referendum Party (UK),463,Q918503,1997 general election,5
+,Q6742616,Malcolm Savidge,Q9630,Labour Party (UK),13157,Q590740,2001 general election,1
+,Q559634,Alasdair Allan,Q10658,Scottish National Party,8708,Q590740,2001 general election,2
+,,Jim Donaldson,Q9624,Liberal Democrats (UK),4991,Q590740,2001 general election,3
+,,Richard Cowling,Q9626,Conservative Party (UK),3047,Q590740,2001 general election,4
+,,Shona Foreman,Q891900,Scottish Socialist Party,454,Q590740,2001 general election,5
+,Q300334,Frank Doran,Q9630,Labour Party (UK),15557,Q428598,2005 general election,1
+,,Steve Delaney,Q9624,Liberal Democrats (UK),8762,Q428598,2005 general election,2
+,Q1740263,Kevin Stewart,Q10658,Scottish National Party,8168,Q428598,2005 general election,3
+,,David Anderson,Q9626,Conservative Party (UK),3456,Q428598,2005 general election,4
+,,John Connon,Q891900,Scottish Socialist Party,691,Q428598,2005 general election,5
+,Q300334,Frank Doran,Q3179541,Scottish Labour Party,16746,Q215622,2010 general election,1
+,Q6205978,Joanna Strathdee,Q10658,Scottish National Party,8385,Q215622,2010 general election,2
+,,Kristian Chapman,Q3250438,Scottish Liberal Democrats,7001,Q215622,2010 general election,3
+,,Stewart Whyte,Q3243587,Scottish Conservatives,4666,Q215622,2010 general election,4
+,,Roy Jones,Q161269,British National Party,635,Q215622,2010 general election,5
+,,Ewan Robertson,Q891900,Scottish Socialist Party,268,Q215622,2010 general election,6
+,Q19868554,Kirsty Blackman,Q10658,Scottish National Party,24793,Q3586935,2015 general election,1
+,Q2149018,Richard Baker,Q3179541,Scottish Labour Party,11397,Q3586935,2015 general election,2
+Q76362937,,Sanjoy Sen,Q3243587,Scottish Conservatives,5304,Q3586935,2015 general election,3
+,,Euan Davidson,Q3250438,Scottish Liberal Democrats,2050,Q3586935,2015 general election,4
+,,Tyrinne Rutherford,Q980923,Trade Unionist and Socialist Coalition,206,Q3586935,2015 general election,5
+,,Christopher Willett,Q158093,National Front (UK),186,Q3586935,2015 general election,6
+,Q19868554,Kirsty Blackman,Q10658,Scottish National Party,15170,Q25052149,2017 general election,1
+,,Orr Vinegold,Q3179541,Scottish Labour Party,11031,Q25052149,2017 general election,2
+,,Grace O'Keeffe,Q3243587,Scottish Conservatives,8341,Q25052149,2017 general election,3
+Q75838821,,Isobel Davidson,Q3250438,Scottish Liberal Democrats,1693,Q25052149,2017 general election,4
+,,Richard Durkin,Q327591,Independent (politician),522,Q25052149,2017 general election,5
+,Q19868554,Kirsty Blackman,Q10658,Scottish National Party,20205,Q30173038,General election 2019 general election,1
+Q76364065,,Ryan Houghton,Q3243587,Scottish Conservatives,7535,Q30173038,General election 2019 general election,2
+,,Nurul Ali,Q3179541,Scottish Labour Party,4939,Q30173038,General election 2019 general election,3
+Q75838821,,Isobel Davidson,Q3250438,Scottish Liberal Democrats,2846,Q30173038,General election 2019 general election,4
+Q76509426,,Sebastian Leslie,Q61651140,Brexit Party,1008,Q30173038,General election 2019 general election,5
+Q76130701,,Guy Ingerson,Q1256956,Scottish Green Party,880,Q30173038,General election 2019 general election,6
